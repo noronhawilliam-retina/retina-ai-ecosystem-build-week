@@ -114,6 +114,25 @@ const specialistNetworks = [
   },
 ];
 
+const ecosystemExpansions = [
+  {
+    code: "E1",
+    name: "Retina Apresenta",
+    role: "An AI presentation product that structures the narrative, creates premium visuals and exports editable PowerPoint and PDF files.",
+    evidence: "Live product · AI-generated presentations · PPTX + PDF exports",
+    href: "https://apresentacoes.marketingdigitalretina.com.br",
+    accent: "pink",
+  },
+  {
+    code: "E2",
+    name: "IAEquipePro",
+    role: "An independent free platform that helps people find and talk to the right AI specialist across professional and everyday categories.",
+    evidence: "Live platform · 100 AI specialists · independent portfolio project",
+    href: "https://iaequipepro.com.br",
+    accent: "violet",
+  },
+];
+
 const principles = [
   ["One intake", "A shared business brief replaces seven disconnected starts."],
   ["Human approval", "Publishing and production actions stay gated until explicit approval."],
@@ -133,6 +152,7 @@ export default function Home() {
           <a href="#ecosystem">Ecosystem</a>
           <a href="#foundations">Foundations</a>
           <a href="#networks">Networks</a>
+          <a href="#expansion">Expansion</a>
           <a href="#navigator">Navigator</a>
           <a href="#build-week">Build Week</a>
         </div>
@@ -251,6 +271,35 @@ export default function Home() {
                 <small>{network.validation}</small>
                 <a href={network.href} target="_blank" rel="noreferrer">Explore complete roster</a>
               </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="section expansion-section" id="expansion">
+        <div className="shell">
+          <div className="section-heading">
+            <div>
+              <p className="eyebrow"><span /> Broader live ecosystem</p>
+              <h2>More products, without changing the judged scope.</h2>
+            </div>
+            <p>
+              The Retina portfolio continued to evolve around the submitted core. These additional live projects are
+              presented as broader portfolio evidence—not as extra Build Week functionality and not as part of the
+              65-scenario validation claim.
+            </p>
+          </div>
+          <div className="expansion-grid">
+            {ecosystemExpansions.map((project) => (
+              <a className={`expansion-card accent-${project.accent}`} href={project.href} target="_blank" rel="noreferrer" key={project.code}>
+                <span className="module-code">{project.code}</span>
+                <div>
+                  <h3>{project.name}</h3>
+                  <p>{project.role}</p>
+                  <small>{project.evidence}</small>
+                </div>
+                <span className="module-arrow" aria-hidden="true">↗</span>
+              </a>
             ))}
           </div>
         </div>
