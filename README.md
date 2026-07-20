@@ -52,7 +52,7 @@ No API key, sample data or login is required to test the navigator.
 
 1. Open the home page.
 2. Scroll to **Ecosystem Navigator**.
-3. Switch among the four business goals.
+3. Switch among the five business goals, including the responsible Web3 route.
 4. Change maturity and preferred pace.
 5. Verify that the specialist, product sequence, starting rule and delivery cadence update immediately.
 6. Follow any product link to inspect a live public Retina surface.
@@ -105,6 +105,13 @@ The Build Week extension is:
 
 Judges should evaluate the extension above rather than the entire historical codebase.
 
+## Broader ecosystem expansion
+
+The submitted Build Week core remains **7 AI products, 2 specialist networks and 5 foundations, tools and ventures**. The broader live portfolio also includes the projects below. They are shown as additional ecosystem evidence, not as extra Build Week functionality and not as part of the 65-scenario specialist validation claim.
+
+- [Retina Apresenta](https://apresentacoes.marketingdigitalretina.com.br) — AI-generated presentations with brand direction and editable PowerPoint and PDF exports
+- [IAEquipePro](https://iaequipepro.com.br) — independent free platform with 100 AI specialists across professional and everyday categories
+
 ## Existing public ecosystem
 
 - [Retina Marketing Digital](https://marketingdigitalretina.com.br)
@@ -114,7 +121,9 @@ Judges should evaluate the extension above rather than the entire historical cod
 - [Social Operations](https://redes.marketingdigitalretina.com.br)
 - [Content Studio](https://conteudo.marketingdigitalretina.com.br)
 - [Visual Identity](https://identidade.marketingdigitalretina.com.br)
+- [Retina Apresenta](https://apresentacoes.marketingdigitalretina.com.br) — broader ecosystem expansion; not counted as new Build Week work
 - [Specialist Agents](https://equipe.retinacomunicacao.com.br)
+- [IAEquipePro](https://iaequipepro.com.br) — independent 100-specialist AI platform; not included in the 65/65 validation claim
 - [Complete Retina Specialist Network](https://equipe.retinacomunicacao.com.br/ai-team) — broader live roster; 13 primary specialists carry the documented 65-scenario validation
 - [Retina Comunicacao](https://retinacomunicacao.com) — public services and delivery foundation
 - [RetinaCoin](https://retinacoin.com) — utility and future payments roadmap, not an investment offer
@@ -149,6 +158,7 @@ If the project becomes eligible for any form of funding or support, the resource
 - Consultoria Blockchain is educational and advisory; it does not provide financial or investment promises.
 - The token generator is a technical tool, not an endorsement of any token, investment or expected return.
 - The 65/65 QA claim applies only to the 13 Retina primary specialists, not every profile in both networks.
+- IAEquipePro is an independent broader portfolio platform; its 100 specialists are not included in the 65/65 claim.
 - AstroConsulta remains an independent vertical and is not represented as part of the shared Retina commercial workflow.
 - Live product availability can change independently from this repository.
 
