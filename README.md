@@ -164,4 +164,6 @@ If the project becomes eligible for any form of funding or support, the resource
 
 ## License
 
-Copyright © 2026 Retina Comunicação. All rights reserved for the Retina brand and proprietary production systems. The Build Week demo source in this repository may be evaluated by OpenAI, Devpost and hackathon judges under the event rules.
+The source code for this Build Week demonstration is available under the [MIT License](LICENSE).
+
+The MIT License does not grant rights to the Retina Comunicação, RetinaCoin, Consultoria Blockchain or AstroConsulta names, logos or trademarks. Proprietary production systems, customer data, credentials, live product content and services outside this repository remain excluded from this license.
